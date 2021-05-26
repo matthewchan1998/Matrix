@@ -1,5 +1,4 @@
 //  main.c
-//  Assignment 4
 //
 //  Created by Matthew Chan on 7/4/2018.
 //  Copyright � 2018 Matthew Chan. All rights reserved.
@@ -155,7 +154,7 @@ void matrixInput(struct matrix *mat)
     }while(1);
     
     FILE *fin;      //Open file
-    fin=fopen("/Users/Matthew/Google Drive/Sheffield/Learning/ACS130 Intro to System Engin and Software/Assignment 4/Assignment 4/matrix1.txt","r");
+    fin=fopen("matrix1.txt","r");
     if (fin == NULL) {
         printf("Oops, this file doesn't exist!\n");
         exit(0);    //Exit if file could not be found
