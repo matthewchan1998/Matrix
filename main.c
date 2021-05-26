@@ -1,7 +1,7 @@
 //  main.c
 //
 //  Created by Matthew Chan on 7/4/2018.
-//  Copyright � 2018 Matthew Chan. All rights reserved.
+//  Copyright © 2018 Matthew Chan. All rights reserved.
 
 #include <stdio.h>
 #include <stdlib.h>
