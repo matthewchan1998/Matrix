@@ -1,2 +1,2 @@
 # Matrix
-Matrix anipulation
+Matrix Manipulation
